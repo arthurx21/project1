@@ -1,2 +1,2 @@
 # project1
-codes for HDUOj
+codes for HDUoj
